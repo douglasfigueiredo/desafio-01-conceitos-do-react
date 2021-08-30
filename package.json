@@ -9,9 +9,13 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/styled-components": "^5.1.13",
+    "axios": "^0.21.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-icons": "^4.2.0"
+    "react-icons": "^4.2.0",
+    "styled-components": "^5.3.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
